@@ -1,4 +1,4 @@
 # Python-Text-to-Speech
-In order to run this code you need to install pynput
+In order to run this code you need to install gtts
 # Installation
-$ pip install pynput
+$ pip install gtts
